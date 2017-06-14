@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">drawing</string>
+
+    <string name="action_arc">Acr</string>
+    <string name="action_circle">Circle</string>
+    <string name="action_rect">Rect</string>
+
+</resources>
